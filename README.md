@@ -1,7 +1,6 @@
-# Does Imagenet Pretraining work for Chest Radiography Images(COVID-19)?
-Associated blog post: 
+# [Does Imagenet Pretraining work for Chest Radiography Images(COVID-19)?](https://deep-and-shallow.com/2020/04/05/does-imagenet-pretraining-work-for-chest-radiography-imagescovid-19/)
 
-This is the supplementary repository for the blog post of the same name.
+[This is the supplementary repository for the blog post of the same name.](https://deep-and-shallow.com/2020/04/05/does-imagenet-pretraining-work-for-chest-radiography-imagescovid-19/)
 
 In this repository, we explore the suitability of Imagenet Pretraining for Chast Radiography Images, specifically in the COVID-19 context.
 
@@ -27,7 +26,8 @@ Place the models in saved_models folder before running the inference notebooks
 [DenseNet 121](https://drive.google.com/open?id=1Fqt9QH34wjxXW-n3FD3NdsokBxj6Duxb)
 [Xception](https://drive.google.com/open?id=1TGhBuVW6-DtU4REO14VWERpQZVs2_9cG)
 # Results
-![This image has an empty alt attribute; its file name is image-15.png](https://deepandshallowml.files.wordpress.com/2020/04/image-15.png?w=958)
+![This image has an empty alt attribute; its file name is image-12.png](https://deepandshallowml.files.wordpress.com/2020/04/image-12.png?w=956)
+
 # GradCAM
 ![This image has an empty alt attribute; its file name is image-16.png](https://deepandshallowml.files.wordpress.com/2020/04/image-16.png?w=895)
 
